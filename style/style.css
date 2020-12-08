@@ -1,0 +1,77 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+body{
+	padding: 0 2.5% 2.5% 2.5%;
+}
+h3{
+    text-align: center;
+    font-family: 'Myriad Pro';
+	font-size: 16px;
+}
+.blue-box{
+	height: 100%;
+	width: 100%;
+	background-color: #042F5F;
+	border: 4px solid #070068;
+	padding: 3%;
+}
+.white{
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	border: 4px solid #0071BC;
+	padding: 3%;
+}
+.second-blue-box{
+	height: 40%;
+	width: 100%;
+	background-color: #304A67;
+	border: 4px solid #2267B5; 
+	padding: 3%;
+}
+.white-box{
+	height: 100%;
+	width: 20%;
+	background-color: white;
+	border: 2px solid #93278F;
+	padding: 2%;
+	display: inline-block;
+	margin-right: 75px;
+}
+.blue{
+	height: 100%;
+	width: 100%;
+	background-color: #75B3F9;
+	position: relative;
+}
+.text{
+    font-size: 14px;
+    font-family: 'Myriad Pro';
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.white-box:last-child{
+    margin: 0px;
+}
+.second-blue-box:last-child{
+	height: 55%;
+	width: 100%;
+	background-color: #304A67;
+	border: 4px solid #2267B5; 
+	margin-top: 40px;
+	position: relative;
+}
+.second-text{
+	font-size: 51.1px;
+    color: white;
+    font-family: 'Myriad Pro';
+	text-align: center;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}

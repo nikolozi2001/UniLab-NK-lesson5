@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-BlackSemiCn.eot');
+    src: url('../fonts/MyriadPro-BlackSemiCn.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MyriadPro-BlackSemiCn.woff2') format('woff2'),
+        url('../fonts/MyriadPro-BlackSemiCn.woff') format('woff'),
+        url('../fonts/MyriadPro-BlackSemiCn.ttf') format('truetype'),
+        url('../fonts/MyriadPro-BlackSemiCn.svg#MyriadPro-BlackSemiCn') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
